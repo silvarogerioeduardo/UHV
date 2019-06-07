@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrsetup.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\unity\\vr setup\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "vr setup [Testing]"
+        }
+      }
+    }
+  ]
+}
